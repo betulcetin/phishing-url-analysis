@@ -13,5 +13,4 @@ Bu proje phishing URL veri setini inceler ve çeşitli görselleştirmeler yapar
 
 Pandas, NumPy, Matplotlib, Seaborn
 
-## 👤
-5 years Cyber Security Analyst → AI/ML transition
+## 👤 5 years Cyber Security Analyst → AI/ML transition
